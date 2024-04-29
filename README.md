@@ -1,3 +1,3 @@
 # Portfolio
 
-Hey! WIP Portfolio.
+Hey! Work in progress portfolio.
